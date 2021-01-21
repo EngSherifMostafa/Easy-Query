@@ -1,0 +1,10 @@
+D:\Software\Programming\vb.net\Easy_Query\Easy_Query\bin\Debug\Easy_Query.dll
+D:\Software\Programming\vb.net\Easy_Query\Easy_Query\bin\Debug\Easy_Query.pdb
+D:\Software\Programming\vb.net\Easy_Query\Easy_Query\bin\Debug\Easy_Query.xml
+D:\Software\Programming\vb.net\Easy_Query\Easy_Query\obj\Debug\Easy_Query.vbprojAssemblyReference.cache
+D:\Software\Programming\vb.net\Easy_Query\Easy_Query\obj\Debug\Easy_Query.Resources.resources
+D:\Software\Programming\vb.net\Easy_Query\Easy_Query\obj\Debug\Easy_Query.vbproj.GenerateResource.cache
+D:\Software\Programming\vb.net\Easy_Query\Easy_Query\obj\Debug\Easy_Query.vbproj.CoreCompileInputs.cache
+D:\Software\Programming\vb.net\Easy_Query\Easy_Query\obj\Debug\Easy_Query.dll
+D:\Software\Programming\vb.net\Easy_Query\Easy_Query\obj\Debug\Easy_Query.xml
+D:\Software\Programming\vb.net\Easy_Query\Easy_Query\obj\Debug\Easy_Query.pdb
