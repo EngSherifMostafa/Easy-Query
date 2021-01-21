@@ -1,5 +1,5 @@
 # Easy_Query
-## Its contains 20 method that ease design desktop apps
+## Its contains 20 method that ease designing desktop apps
 ##### connectDB
 ##### runDDL
 ##### runDML
