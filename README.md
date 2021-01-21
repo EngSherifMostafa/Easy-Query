@@ -1,5 +1,6 @@
 # Easy_Query
 ## Its contains 20 method that ease designing desktop apps
+## For more explanation please read Code_Description.xlsx file
 ##### connectDB
 ##### runDDL
 ##### runDML
